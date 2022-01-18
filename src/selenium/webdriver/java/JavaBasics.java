@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class JavaBasics {
 
-
+//Some very basic java facts
+	
 public static void main(String[] args) {
 
 //variable declaration
